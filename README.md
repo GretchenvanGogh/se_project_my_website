@@ -1,6 +1,6 @@
 # My Website
 
-A place to show my resume and portfolio of project
+A place to show my resume and portfolio of projects
 
 ## Functionality
 
