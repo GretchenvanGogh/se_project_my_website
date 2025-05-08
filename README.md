@@ -17,4 +17,4 @@ The page showcases projects as cards/images that are clickable links to open, vi
 
 This project is deployed on GitHub Pages:
 
-- ........
+- https://gretchenvangogh.github.io/se_project_my_website/
